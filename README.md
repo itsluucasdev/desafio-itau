@@ -12,7 +12,7 @@ A proposta de solução foi desenhada utilizando as tecnologias **[Angular](http
 
 - Desenho de funcionamento da API backend
 
-![Desenho API Backend](https://github.com/itsluucasdev/desafio-itau/blob/main/Desenho/desenho-arquitetura.png)
+![Desenho API Backend](https://github.com/itsluucasdev/desafio-itau/blob/main/Desenho/desenho-backend.png)
 
 - Desenho Tela Frontend
 
