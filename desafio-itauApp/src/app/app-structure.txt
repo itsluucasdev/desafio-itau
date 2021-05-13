@@ -1,0 +1,14 @@
+* src
++---* app
+|   +---* cotacao
+|   |   | cotacao.component.ts | .html | .css
+|   |   +---* cotacao-detais-modal
+|   |   |   | cotacao-detais-modal.ts | .html | .css
+|   |
+|   +---* shared
+|   |   |-- cotacao-detail.service.ts
+|   |   |-- cotacao-detail.model.ts
+|   |
+|   |-- app.module.ts
+|
+|--index.html
